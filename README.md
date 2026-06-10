@@ -1,2 +1,2 @@
 # SOJU-Clinical
-Proyecto de Software, desarrollado y documentado.
+Proyecto personal y hipoteticom de Software, desarrollado y documentado.
